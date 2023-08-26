@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: ''
-description: ''
+title: LIUXH
+subtitle: 个人博客
+description: '贮备了一些小技巧，知识 ，常见问题，以及一些个人总结'
 keywords:
-author: John Doe
-language: en
+author: LIUXH
+language: zh-CN
 timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://lxhsh.gitee.io/folder/
+url: https://github.com/LXHXS0605/folder.git
 # permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -97,12 +97,12 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: hexo-theme-nothinglin
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: 'git'
-  repo: git@github.com:LXHXS0605/folder.git
+  repo: https://github.com/LXHXS0605/folder.git
   branch: master
 
